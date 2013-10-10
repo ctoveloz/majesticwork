@@ -1,0 +1,11 @@
+{
+  "name": "yo",
+  "version": "0.0.0",
+  "dependencies": {
+  	"angular": "https://github.com/jefferson-william/angularjs.git",
+    "sass-bootstrap": "~2.3.0",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.9.1"
+  },
+  "devDependencies": {}
+}
