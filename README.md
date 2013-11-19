@@ -1,4 +1,4 @@
-# CakePHP Grunt Compass Jam
+# CakePHP Grunt Compass
 
 An example CakePHP app setup using [gruntjs.com](http://gruntjs.com),
 [compass-style.org](http://compass-style.org), [jamjs.org](http://jamjs.org)
